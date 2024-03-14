@@ -1,0 +1,7 @@
+{
+  "name": "geolocation-with-airplane-mode",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react-vite"
+}
